@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * main - prinst alphabets in lowercase a to z
+ * print_alphabet - prinst alphabets in lowercase a to z
  *
  * Return: void
- * */
+ */
 void print_alphabet(void)
 {
 	char i = 'a';
