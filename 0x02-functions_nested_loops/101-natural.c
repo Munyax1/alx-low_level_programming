@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <tdio.h>
 
 /**
  * main - entry point
@@ -15,7 +15,7 @@ int main(void)
 	{
 	if (x % 3 == 0)
 		sum += x;
-	else if (x % 5 == 0)
+	else (x % 5 == 0)
 		sum += x;
 		x++;
 	}
