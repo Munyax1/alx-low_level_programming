@@ -5,7 +5,7 @@
  * @s : pointer to char variable
  * @b : char variable
  * @n : int variable
- * Return : char s
+ * Return: char s
  */
 
 char *_memset(char *s, char b, unsigned int n)
